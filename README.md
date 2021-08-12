@@ -6,3 +6,6 @@ This repository will contain your practical notebooks for COMP2200/COMP6200 Sess
 You can update this README file to personalise your repository.
 
 - practical week 1 finished
+- practical week 2 finished
+- practical week 3 finished
+
