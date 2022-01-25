@@ -1,12 +1,11 @@
 # COMP2200/COMP6200 Practicals S2-2021
 This repository contains practical notebooks for COMP2200/COMP6200 for Session S2-2021 @ Macquarie University
 
-This repository will contain your practical notebooks for COMP2200/COMP6200 Session S2, 2021. The initial repository has one notebook for the first week. Each week you will add a new notebook and commit your changes as you complete the problems set for you. At the end of the semester you will have this repository as a record of your work. This can then form part of your ongoing portfolio of work.
-
-You can update this README file to personalise your repository.
-
-- practical week 1 finished
-- practical week 2 finished
-- practical week 3 finished
-- practical week 4 finished
-- practical week 5 finished
+- practical week 1 contains code about basic string manipulation, control structures, functions and plotting
+- practical week 2 contains code about basic markdown, lists, dictionaries and Pandas DataFrames
+- practical week 3 contains code with some simple statistical data analysis and matplotlib visualisations
+- practical week 4 contains code to practice the Seaborn visualisation library
+- practical week 5 contains a standard Data Science workflow: exploring data, building models, making predictions, evaluating results. The model included is a simple linear least squares model
+- practical week 6 contains a logistic regression model including some metric evaluation and feature selection
+- practical week 8 contains kmeans and hierarchical clustering. It also introduces some text analysis
+- practical week 11 contains Artificial Neural Networks including cross-validation and a comparison to Naive Bayes and K-Nearest Neighbor algorithm
